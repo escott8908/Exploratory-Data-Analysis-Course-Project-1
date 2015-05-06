@@ -3,6 +3,7 @@
 This repository contain my solutions to Course Project 1.  Each R script
 corresponsds to the different figures.
 
+R script | png file
 ---|---
 plot1.R | plot1.png
 plot2.R | plot2.png
