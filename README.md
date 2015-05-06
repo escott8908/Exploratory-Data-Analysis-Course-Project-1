@@ -1,6 +1,6 @@
-# Exploratory-Data-Analysis-Course-Project-1
+## Exploratory-Data-Analysis-Course-Project-1
 
-This repository contain my solutions to Course Project 1.  Each R script
+This repository contains my solutions to Course Project 1 of Exploratory Data Analysis.  Each R script
 corresponsds to the different figures.
 
 R script | png file
